@@ -18,6 +18,8 @@ In the second part of the course, we will study model explanation techniques, ag
 with simple models where we can build good intuition and then working up to what we can do 
 for  deep neural networks with millions-hundreds of billions of parameters. 
 
+Complete this [form to request a permission number](https://forms.gle/FranBuJd1mfpZSR38)
+
 ## Course structure
 
 There will be 1-3 papers or freely available textbook chapters to read most weeks. 
