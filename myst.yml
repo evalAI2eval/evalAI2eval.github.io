@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 55b34c8e-d206-4cda-af9c-80cb3e8a9099
+  title: Model Evaluation and Explanation Course at URI
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/evalexplainAI/evalexplainAI.github.io
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
