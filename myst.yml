@@ -10,8 +10,13 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   exclude:
     - README.md
+  banner: explainevalai.png
 site:
-  template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  template: article-theme
+  nav:
+    - title: Request Permission number
+      url: https://forms.gle/FranBuJd1mfpZSR38
+  options:
+    hide_toc: true
+    favicon: explainevalai-favicon.ico
+    logo: explainevalai-logo.png

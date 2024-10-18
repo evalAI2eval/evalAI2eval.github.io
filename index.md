@@ -1,4 +1,7 @@
+
+
 # Model Evaluation and Explanation
+
 
 In this course, we will aim to answer one key question, through a multidisciplinary
 examination: 
@@ -18,9 +21,13 @@ In the second part of the course, we will study model explanation techniques, ag
 with simple models where we can build good intuition and then working up to what we can do 
 for  deep neural networks with millions-hundreds of billions of parameters. 
 
-Complete this [form to request a permission number](https://forms.gle/FranBuJd1mfpZSR38)
+<!-- Complete this [form to request a permission number]() -->
+
+
 
 ## Course structure
+
+**Spring 2025: TTh 5:00-6:15pm**
 
 There will be 1-3 papers or freely available textbook chapters to read most weeks. 
 Most class sessions will be focused on a discussion of the paper(s) assigned for that 
@@ -33,10 +40,10 @@ as a group.
 
 ## Evaluation
 
-Student will have to: 
-- present lightning-talk style presentations of papers
+Students will have to: 
+- present lightning-talk (5min) style presentations of papers
 - engage in course discussions
-- complete reading reflections on each paper read
+- complete reading reflections/article critques
 - meet project milestones
 - complete a project developing a (part of) an AI benchmark
 
