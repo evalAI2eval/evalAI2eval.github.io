@@ -47,6 +47,8 @@ Students will have to:
 - meet project milestones
 - complete a project developing a (part of) an AI benchmark
 
+
+
 ## Project
 
 :::::{warning}
@@ -90,3 +92,25 @@ overly verbose and off topic will not be assessed and earn zero credit.
 
 At the instructor's discretion, any submitted work may be re-assessed by oral 
 exam to ensure that the student actually understands.  -->
+
+## Tools
+
+This class meets in person, synchronously. 
+
+Most course work will be done in GitHub repos, you may choose to work in Github.com, a codespace, or locally for text work. 
+
+A reading list will also be shared via [zotero](https://www.zotero.org/groups/5719529/evalexplainai)
+
+## Annotated Bibliography
+
+::::{warning}
+This is a tentative list of papers and references for the course. It will contain sources relevant to the course, but not all will be assigned as readings.
+::::
+
+### Intro and Philosophical
+
+@agre2014toward
+
+### Benchmarks
+
+- 
