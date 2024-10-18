@@ -8,6 +8,8 @@ project:
   # authors: []
   github: https://github.com/evalexplainAI/evalexplainAI.github.io
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  exclude:
+    - README.md
 site:
   template: book-theme
   # options:
