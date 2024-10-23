@@ -12,11 +12,15 @@ What does it mean to say:
 > an AI can do that
 ```
 
+We will answer this question by first looking at how to **measure** what an AI can do
+and then by looking at how to **explain** what an AI does. 
+
 We will begin with a review of model evaluation for simpler ML models, emphasizing the more 
-abstract goals that underlie the standard evaluation procedures.  
-Next, we will consider how far away the claims of abilities of AI from marketing materials are
-from what these metrics can show us study various AI benchmarks to see what we can make 
-rigorous claims about. 
+abstract goals that underlie the standard evaluation procedures. Then we will use these underlying
+goals to build an understanding of the tools available for evaluating more complex systems. 
+Then we will study various AI benchmarks to see what specific AI abilities we can make rigorous 
+claims about. In this section, we will also compare how these rigorous claims get translated into 
+nonscientific literature. 
 In the second part of the course, we will study model explanation techniques, again starting 
 with simple models where we can build good intuition and then working up to what we can do 
 for  deep neural networks with millions-hundreds of billions of parameters. 
@@ -35,8 +39,8 @@ class session.
 
 While we study up-to-date papers of benchmarks and new model evaluation techniques, 
 students will prepare short, lightening-talk style presentations of papers. For these class
-sesssions each student will read and present a different paper and then we will discuss them
-as a group.   
+sesssions, several students each student will read and present different papers and 
+we will discuss them as a group.   
 
 ## Evaluation
 
