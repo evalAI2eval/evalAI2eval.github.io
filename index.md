@@ -48,6 +48,47 @@ Students will have to:
 - complete a project developing a (part of) an AI benchmark
 
 
+The grade will be based on two components: 
+- 40% course community contributions
+- 60% benchmarking project 
+
+within each of these categories some things will be graded on completion only (full points for doing it in good faith & on time) and some will be graded on quality (a more traditional score will be provided).  For quality items a rubric will be provided 1 week or more in advance. 
+
+Remember, this is a 4 credit cass with only 3 contact hours per week. This means that you should be spending a minimum of 9 hours per week on things for the course outide of class time, but most weeks probably closer to 12. When project milestones are due, expecations for community contribution will be a bit lower, and between milestones especially when I am giving feedback, you'll have more community contributions expected.
+
+### community contribution evaluation
+
+Community Contributions will be based on
+
+- preparing for class, every time, so whatever different days I request thigns, there will be different ways this looks. I will ask for different evidence on different days and basically record 1 thing per day for you. (completion- based on check)
+- glossary and shared notes contributions (completion-number)
+- contribution to shared infrastructure (completion -number and scope)
+- lightning talk presentations (quality/binary)
+- contributions to class discussion & prismia responses (completion -number and quality)
+
+All of these are grouped together becasue for each of you your contributions will look different, because we are all contributing to the community, each specific contribution will be different. 
+
+For final grading, you will receive one of: 
+- meet/exceeds expecation (full credit); 
+- insconsistent/slighlty below (half credit);
+- far below expecation (no credit).
+
+There will be a chance to contest your standing here at the end of the semester if you do not reach meet/exceeds expecatations and want something between
+
+I will let you know at least every 2 weeks if I think your contributions are below, meeting, or exceeding expectations. You can cancel out a below expectation with an exceeding expectation in order to get your average up to on track. You cannot have more than 2 below expecations in a row and still get meet/exceeds in your final grade (so you cannot just exceed at the beginning and then quit)
+
+
+
+### project evaluation 
+
+
+This will be evaluated by, percentatges are of the project grade not of the final course grade
+- overall  repo (quality 30%)
+- your specific contributions to your project based on evidence and team mate review (quality; 20%)
+- project milestones (completion 20%) 
+-  report (quality 20%) 
+-  presenation (quality 10%)
+
 
 ## Project
 
@@ -59,16 +100,48 @@ Do not use this to try to start the project early
 ```
 :::::
 
-The project will be completed by meeting several milestones:
-- evaluate ideas based on interest from a group-created list of ideas
-- propose an AI benchmark component
-- peer review of proposals
-- consolidation into teams[^teams]
-- implement at least one benchmark task
-- evaluate an open source LLM [^llmcredits]
-- apply explanation techniques to better understand *why* it performs as it does
-- extend the benchmark with a task that gives different performance [^performancevary] 
-- complete a final conference-paper style report 
+The project will be completed by meeting several milestones, these milestones are not likely to change and changes will be announced with a lot of warning
+```{list-table}
+* - project milestone
+  - due date
+  - submission
+* - evaluate ideas based on interest from a group-created list of ideas
+  - 2025-02-13 
+  - course discussion
+* - draft proposal an AI benchmark component
+  - 2025-02-20 
+  - tba
+* - peer review of proposals
+  - 2025-03-06 
+  - form will be provided
+* - consolidation into teams[^teams]
+  - 2025-03-06 
+  - in class
+* - implement at least one benchmark task
+  - 2025-03-25 
+  - benchmark repo
+* - evaluate an open source LLM [^llmcredits]
+  - 2025-04-01 
+  - 
+* - apply explanation techniques to better understand *why* it performs as it does
+  - 2025-04-15 
+  - 
+* - draft paper for peer review 
+  - 2025-04-24 
+  - benchmark repo or overleaf, tbd
+* - extend the benchmark with a task that gives different performance [^performancevary] 
+  - 2025-04-29 
+  - benchmark repo
+* - in class presentation
+  - 2025-04-29
+  - presentation and draft paper, location tba
+* - complete a final conference-paper style report 
+  - 2025-05-06  
+  - final paper for grading
+* - *optional* submit paper for neurips
+  - exact tba expected mid/late may
+  - paper with all required sections and online submission to platform
+```
 
 [^teams]: depending on enrollment and similarity of proposal topics benchmarks
  may be completed in teams or indvidually but the proposal stage and peer review will 
@@ -82,7 +155,7 @@ evaluation will not be required to complete the project.
 
 [^performancevary]: if the LLM scores well on the first task, add one where it does not score well; if it scores poorly on the first add one that it can do well
 
-<!-- ## LLM use 
+## LLM use 
 
 All work must reflect the students understanding. LLM assistants may be used to 
 improve writing quality for assignments where writing quality will be assessed. 
@@ -91,26 +164,111 @@ required. Any submitted writing that contains classic "bot" phrasing or that is
 overly verbose and off topic will not be assessed and earn zero credit. 
 
 At the instructor's discretion, any submitted work may be re-assessed by oral 
-exam to ensure that the student actually understands.  -->
+exam to ensure that the student actually understands. 
 
 ## Tools
 
 This class meets in person, synchronously. 
 
-Most course work will be done in GitHub repos, you may choose to work in Github.com, a codespace, or locally for text work. 
+- we will use prismia chat to share materials. Join link on brightspace
+- Most course work will be done in GitHub repos, you may choose to work in Github.com, a codespace, or locally for most work. Join link for github is on Brightspace. 
+- A reading list will developed collaboratively via [zotero](https://www.zotero.org/groups/5719529/evalexplainai)
+- paper writing will be on [overleaf](https://www.overleaf.com/) via github, Sarah will create overleaf projects as needed so they get paid features via URI
+- this site and other public materials from benchmarks will use [myst markdown](https://mystmd.org/) 
 
-A reading list will also be shared via [zotero](https://www.zotero.org/groups/5719529/evalexplainai)
+## Overall Schedule
 
-## Annotated Bibliography
+:::{warning}
+the way class time is used is subject to change, but the project milestone deadlines are unlikely to move
+:::
 
-::::{warning}
-This is a tentative list of papers and references for the course. It will contain sources relevant to the course, but not all will be assigned as readings.
-::::
+```{list-table}
 
-### Intro and Philosophical
-
-@agre2014toward
-
-### Benchmarks
-
-- 
+* - date
+  - topic
+  - due
+* - 2025-01-23
+  - intro
+  - none 
+* - 2025-01-28
+  - classic evaluation  in predictive systems
+  - prep work (see prismia)
+* - 2025-01-30
+  - novel evaluation in predictive systems
+  - contribute informal evaluations
+* - 2025-02-04
+  - basics of evaluation in generative systems
+  - discuss/comment on informal eval + contribute benchmark ideas 
+* - 2025-02-06
+  - what is a benchmark?
+  - possible benchmark to present for approval
+* - 2025-02-11
+  - benchmark spotlights  
+  - spotlight presentation (all students 5 min presentation)
+* - 2025-02-13
+  - benchmark common structures
+  -  
+* - 2025-02-18
+  - benchmark spotlights II (possible swap to following week)
+  -  
+* - 2025-02-20
+  - benchmark spotlights III (possible swap to following week)
+  -  
+* - 2025-02-25
+  - evaluating evaluation I (possible swap to previous week)
+  -  
+* - 2025-02-27
+  - evaluating evaluation II (possible swap to previous week)
+  -  
+* - 2025-03-04
+  - peer review (Sarah out)
+  - proposal revisions
+* - 2025-03-06
+  - team formation (Sarah out)
+  - full reads of proposals
+* - 2025-03-11
+  - spring break
+  -  none
+* - 2025-03-13
+  - spring break
+  -  none
+* - 2025-03-18
+  - explanation concepts
+  -  
+* - 2025-03-20
+  - explanation concepts
+  -  
+* - 2025-03-25
+  - 
+  - first benchmark task 
+* - 2025-03-27
+  - explanation concepts
+  -  
+* - 2025-04-01
+  - communicating and contextualizing performance
+  - first performance on benchmark
+* - 2025-04-03
+  - explanation techniques
+  -  
+* - 2025-04-08
+  - explanation techniques
+  -  
+* - 2025-04-10
+  - explanation techniques
+  -  
+* - 2025-04-15
+  - making a plan based on explanation results
+  - explanation results
+* - 2025-04-17
+  - communicating explanations
+  - revision plan
+* - 2025-04-22
+  - communicating limitations
+  - paper draft for reading
+* - 2025-04-24
+  - (possibly presentations)
+  - paper draft for reading
+* - 2025-04-29
+  - final presentations
+  - 2nd task, slides
+```
