@@ -87,7 +87,7 @@ This will be evaluated by, percentatges are of the project grade not of the fina
 - your specific contributions to your project based on evidence and team mate review (quality; 20%)
 - project milestones (completion 20%) 
 -  report (quality 20%) 
--  presenation (quality 10%)
+-  presentation (quality 10%)
 
 
 ## Project
@@ -118,17 +118,14 @@ The project will be completed by meeting several milestones, these milestones ar
   - 2025-03-06 
   - in class
 * - implement at least one benchmark task
-  - 2025-03-25 
-  - benchmark repo
-* - evaluate an open source LLM [^llmcredits]
-  - 2025-04-01 
-  - 
+  - 2025-03-27 
+  - benchmark repo + presentation
 * - apply explanation techniques to better understand *why* it performs as it does
   - 2025-04-15 
-  - 
+  - in class demo/discussion
 * - draft paper for peer review 
   - 2025-04-24 
-  - benchmark repo or overleaf, tbd
+  - benchmark repo or overleaf, team preference, **[registration](https://docs.google.com/forms/d/16NN941Oydub9h00fSeVsXGJs4NVIeM0buHx6w546vTE/edit) of the location required**
 * - extend the benchmark with a task that gives different performance [^performancevary] 
   - 2025-04-29 
   - benchmark repo
@@ -138,9 +135,15 @@ The project will be completed by meeting several milestones, these milestones ar
 * - complete a final conference-paper style report 
   - 2025-05-06  
   - final paper for grading
+* - *optional* register abstract for [neurips](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)
+  - May 15 
+  - abstract and all authors registered in openreview
 * - *optional* submit paper for neurips
-  - exact tba expected mid/late may
-  - paper with all required sections and online submission to platform
+  - May 15 
+  - paper with all required sections to openreview
+* - *optional* submit supplemental materials for neurips
+  - May 22
+  - paper with all required sections to openreview
 ```
 
 [^teams]: depending on enrollment and similarity of proposal topics benchmarks
@@ -194,26 +197,26 @@ the way class time is used is subject to change, but the project milestone deadl
   - classic evaluation  in predictive systems
   - prep work (see prismia)
 * - 2025-01-30
-  - novel evaluation in predictive systems
+  - novel evaluation in predictive systems + syllabus discussion
   - contribute informal evaluations
 * - 2025-02-04
-  - basics of evaluation in generative systems
-  - discuss/comment on informal eval + contribute benchmark ideas 
+  - basics of evaluation in generative systems + reading research discussion
+  - discuss/comment on informal eval + contribute benchmark ideas +copilot arena informal audit 
 * - 2025-02-06
-  - what is a benchmark?
-  - possible benchmark to present for approval
+  - what is a benchmark? + synthesizing research discussion
+  - possible benchmarks to present for approval
 * - 2025-02-11
   - benchmark spotlights  
-  - spotlight presentation (all students 5 min presentation)
+  - spotlight presentations (all students 5 min presentation)
 * - 2025-02-13
   - benchmark common structures
-  -  
+  - decide benchmark proposal topic (rough) 
 * - 2025-02-18
   - benchmark spotlights II (possible swap to following week)
   -  
 * - 2025-02-20
   - benchmark spotlights III (possible swap to following week)
-  -  
+  - full benchmark propsal  
 * - 2025-02-25
   - evaluating evaluation I (possible swap to previous week)
   -  
@@ -233,32 +236,32 @@ the way class time is used is subject to change, but the project milestone deadl
   - spring break
   -  none
 * - 2025-03-18
-  - explanation concepts
+  - canceled
   -  
 * - 2025-03-20
   - explanation concepts
   -  
 * - 2025-03-25
+  - TCAV
   - 
-  - first benchmark task 
 * - 2025-03-27
-  - explanation concepts
-  -  
+  - benchmark demos
+  - presentations
 * - 2025-04-01
-  - communicating and contextualizing performance
-  - first performance on benchmark
+  - evaluating explanations
+  - 
 * - 2025-04-03
   - explanation techniques
-  -  
+  - paper location registered 
 * - 2025-04-08
-  - explanation techniques
+  - communicating and contextualizing performance
   -  
 * - 2025-04-10
   - explanation techniques
   -  
 * - 2025-04-15
   - making a plan based on explanation results
-  - explanation results
+  - explanation results spotlights
 * - 2025-04-17
   - communicating explanations
   - revision plan
