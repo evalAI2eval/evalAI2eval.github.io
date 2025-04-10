@@ -270,11 +270,11 @@ the way class time is used is subject to change, but the project milestone deadl
   - explanation techniques III
   - explanation technique spotlights
 * - 2025-04-15
+  - communicating explanations
+  - none
+* - 2025-04-17
   - making a plan based on explanation results
   - explanation results spotlights - one per team
-* - 2025-04-17
-  - communicating explanations
-  - revision plan
 * - 2025-04-22
   - communicating limitations
   - paper draft for reading
