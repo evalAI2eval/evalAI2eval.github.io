@@ -125,15 +125,15 @@ The project will be completed by meeting several milestones, these milestones ar
   - 2025-03-27 
   - benchmark repo + presentation
 * - benchmark map
-  - 2025-04-08
-  - plain text or spreadsheet that indicates your plan of how many tasks
-* - apply explanation techniques to better understand *why* it performs as it does
-  - 2025-04-15 
+  - 2025-04-10
+  - plain text or table that indicates your plan of how many tasks
+* - apply an explanation technique to better understand *why* at least one model performs as it does on your benchmark
+  - 2025-04-17 
   - in class demo/discussion
 * - better bench self assessment for peer review 
   - 2025-04-24
   - [checklist template](https://betterbench.stanford.edu/checklist.html) in repo or paper overleaf (use google doc and convert to md for repo)
-* - draft paper for peer review 
+* - draft paper for peer review [^peerrev] 
   - 2025-04-24 
   - benchmark repo or overleaf, team preference, **[registration](https://docs.google.com/forms/d/16NN941Oydub9h00fSeVsXGJs4NVIeM0buHx6w546vTE/edit) of the location required**
 * - extend the benchmark with a task that gives different performance [^performancevary] 
@@ -141,18 +141,18 @@ The project will be completed by meeting several milestones, these milestones ar
   - benchmark repo
 * - in class presentation
   - 2025-04-24,9
-  - presentation and draft paper, location tba
+  - presentation[^presentation] and draft paper[^draft], 
 * - complete a final conference-paper style report 
   - 2025-05-06  
   - final paper for grading
 * - *optional* register abstract for [neurips](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)
-  - May 15 
+  - 2025-05-11 
   - abstract and all authors registered in openreview
 * - *optional* submit paper for neurips
-  - May 15 
+  - 2025-05-15
   - paper with all required sections to openreview
 * - *optional* submit supplemental materials for neurips
-  - May 22
+  - 2025-05-22
   - paper with all required sections to openreview
 ```
 
@@ -167,6 +167,12 @@ may be provided credits to evaluate commercial LLMs may be available, but non-fr
 evaluation will not be required to complete the project. 
 
 [^performancevary]: if the LLM scores well on the first task, add one where it does not score well; if it scores poorly on the first add one that it can do well
+
+[^draft]: Your draft should be a complete paper, but may have only partial results 
+
+[^presentation]: Your presentation should be 15 minutes, strictly enforced, so that there is time for questions
+
+[^peerrev]: there is a [short form](https://docs.google.com/forms/d/e/1FAIpQLSdAPkOT8xL473iwW8B4rPqcnFJNyJ5xtHG9yaTVvtLYG70juA/viewform?usp=header) to complete for each benchmark, you should take notes enough to complete the forms after class, once per presenatation
 
 ## LLM use 
 
@@ -274,14 +280,14 @@ the way class time is used is subject to change, but the project milestone deadl
   - none
 * - 2025-04-17
   - making a plan based on explanation results
-  - explanation results spotlights - one per team
+  - explanation results spotlights - one per team, 5 minutes max
 * - 2025-04-22
   - communicating limitations
   - paper draft for reading
 * - 2025-04-24
-  - (possibly presentations)
-  - paper draft for reading
+  - COF Sensitivity, PersonaPromptBench, poison-detection-benchmark
+  - presentations
 * - 2025-04-29
-  - final presentations
-  - 2nd task, slides
+  - llm-webdev-rank, WABench, fairnessBench
+  - presentations
 ```
