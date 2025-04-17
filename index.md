@@ -133,24 +133,24 @@ The project will be completed by meeting several milestones, these milestones ar
 * - better bench self assessment for peer review 
   - 2025-04-24
   - [checklist template](https://betterbench.stanford.edu/checklist.html) in repo or paper overleaf (use google doc and convert to md for repo)
-* - draft paper for peer review [^peerrev] 
+* - draft paper[^paperreqs] for peer review [^peerrev] 
   - 2025-04-24 
-  - benchmark repo or overleaf, team preference, **[registration](https://docs.google.com/forms/d/16NN941Oydub9h00fSeVsXGJs4NVIeM0buHx6w546vTE/edit) of the location required**
+  - benchmark repo or overleaf, team preference, **[registration](https://docs.google.com/forms/d/e/1FAIpQLSe85EU-DvevdyyZNRhfG5ZSe7MwAXe8psFD-eJGxD1iYRT5hA/viewform?usp=header) of the location required**
 * - extend the benchmark with a task that gives different performance [^performancevary] 
   - 2025-04-24,9 
   - benchmark repo
 * - in class presentation
   - 2025-04-24,9
   - presentation[^presentation] and draft paper[^draft], 
-* - complete a final conference-paper style report 
+* - complete a final conference-paper[^paperreqs] style report 
   - 2025-05-06  
-  - final paper for grading
+  - final paper for grading and [short reflection](https://docs.google.com/forms/d/e/1FAIpQLSfgKq0w26jaxBKsuEsKSkXyAnmB8C0BlblsTAYyhL9qj7NlxA/viewform?usp=header) **form will be active after may 1**
 * - *optional* register abstract for [neurips](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)
   - 2025-05-11 
   - abstract and all authors registered in openreview
 * - *optional* submit paper for neurips
   - 2025-05-15
-  - paper with all required sections to openreview
+  - paper with all required sections to openreview, inluding [checklist](https://neurips.cc/public/guides/PaperChecklist)
 * - *optional* submit supplemental materials for neurips
   - 2025-05-22
   - paper with all required sections to openreview
@@ -173,6 +173,8 @@ evaluation will not be required to complete the project.
 [^presentation]: Your presentation should be 15 minutes, strictly enforced, so that there is time for questions
 
 [^peerrev]: there is a [short form](https://docs.google.com/forms/d/e/1FAIpQLSdAPkOT8xL473iwW8B4rPqcnFJNyJ5xtHG9yaTVvtLYG70juA/viewform?usp=header) to complete for each benchmark, you should take notes enough to complete the forms after class, once per presenatation
+
+[^paperreqs]: the paper should be in the style (tone and content level) of a CS conference. It should be 6-10 pages in the neurips format( [latex from neurips](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) or `arxiv_nips` myst template), including figures, but unlimited additional pages for references. 
 
 ## LLM use 
 
