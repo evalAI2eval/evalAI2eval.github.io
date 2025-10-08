@@ -12,18 +12,16 @@ What does it mean to say:
 > an AI can do that
 ```
 
-We will answer this question by first looking at how to **measure** what an AI can do
-and then by looking at how to **explain** what an AI does. 
+We will answer this question by examining  how to **measure** what an AI can do robustly and reliably. 
+We will study both evaluations of AI and evaluations of AI evaluations and along the way, you will build a benchmark. 
 
 We will begin with a review of model evaluation for simpler ML models, emphasizing the more 
 abstract goals that underlie the standard evaluation procedures. Then we will use these underlying
 goals to build an understanding of the tools available for evaluating more complex systems. 
 Then we will study various AI benchmarks to see what specific AI abilities we can make rigorous 
-claims about. In this section, we will also compare how these rigorous claims get translated into 
+claims about. We will also compare how these rigorous claims get translated into 
 nonscientific literature. 
-In the second part of the course, we will study model explanation techniques, again starting 
-with simple models where we can build good intuition and then working up to what we can do 
-for  deep neural networks with millions-hundreds of billions of parameters. 
+
 
 Complete this [form to request a permission number](https://forms.gle/FranBuJd1mfpZSR38)
 
@@ -31,17 +29,22 @@ Complete this [form to request a permission number](https://forms.gle/FranBuJd1m
 
 ## Course structure
 
-**Spring 2025: TTh 5:00-6:15pm**
+**Spring 2026: TTh 5:00-6:15pm**
+
 
 There will be 1-3 papers or freely available textbook chapters to read most weeks. 
 Most class sessions will be focused on a discussion of the paper(s) assigned for that 
 class session.  
 
 While we study up-to-date papers of benchmarks and new model evaluation techniques, 
-students will prepare short, lightening-talk style presentations of papers. For these class
+students will prepare short, lightning-talk style presentations of papers. For these class
 sesssions, several students each student will read and present different papers and 
-we will discuss them as a group.   
+we will discuss them as a group.  
 
+
+:::::{warning}
+The following is from Spring 2025 and is subject to minor changes for spring 2026
+:::::
 ## Evaluation
 
 Students will have to: 
