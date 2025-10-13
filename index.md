@@ -1,6 +1,6 @@
 
 
-# Model Evaluation and Explanation
+# Evaluating AI and AI Evaluations
 
 
 In this course, we will aim to answer one key question, through a multidisciplinary
