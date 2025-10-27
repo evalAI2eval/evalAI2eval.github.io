@@ -29,7 +29,7 @@ Complete this [form to request a permission number](https://forms.gle/FranBuJd1m
 
 ## Course structure
 
-**Spring 2026: TTh 5:00-6:15pm**
+**Spring 2026: TTh 3:30-4:45 in Tyler 106pm**
 
 
 There will be 1-3 papers or freely available textbook chapters to read most weeks. 
