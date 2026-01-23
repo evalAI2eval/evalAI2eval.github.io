@@ -61,7 +61,7 @@ The grade will be based on two components:
 
 within each of these categories some things will be graded on completion only (full points for doing it in good faith & on time) and some will be graded on quality (a more traditional score will be provided).  For quality items a rubric will be provided 1 week or more in advance. 
 
-Remember, this is a 4 credit cass with only 3 contact hours per week. This means that you should be spending a minimum of 9 hours per week on things for the course outide of class time, but most weeks probably closer to 12. When project milestones are due, expecations for community contribution will be a bit lower, and between milestones especially when I am giving feedback, you'll have more community contributions expected.
+Remember, this is a 4 credit class with only 3 contact hours per week. This means that you should be spending a minimum of 9 hours per week on things for the course outide of class time, but most weeks probably closer to 12. When project milestones are due, expecations for community contribution will be a bit lower, and between milestones especially when I am giving feedback, you'll have more community contributions expected.
 
 ### community contribution evaluation
 
@@ -103,7 +103,7 @@ This will be evaluated by, percentatges are of the project grade not of the fina
 This is a first draft and will be refined before students should start working on it
 
 ```{important}
-Do not use this to try to start the project early
+Dates are not yet updated for sp26, but do not use this to try to start early, formats may change
 ```
 :::::
 
@@ -113,51 +113,56 @@ The project will be completed by meeting several milestones, these milestones ar
   - due date
   - submission
 * - evaluate ideas based on interest from a group-created list of ideas
-  - 2025-02-13 
+  - 2026-02-12 
   - course discussion
 * - draft proposal an AI benchmark component
-  - 2025-02-20 
+  - 2026-02-19 
   - tba
 * - peer review of proposals
-  - 2025-03-06 
+  - 2026-03-05 
   - form will be provided
 * - consolidation into teams[^teams]
-  - 2025-03-06 
+  - 2026-03-05 
   - in class
 * - implement at least one benchmark task
-  - 2025-03-27 
+  - 2026-03-26 
   - benchmark repo + presentation
 * - benchmark map
-  - 2025-04-10
+  - 2026-04-02
   - plain text or table that indicates your plan of how many tasks
 * - apply an explanation technique to better understand *why* at least one model performs as it does on your benchmark
-  - 2025-04-17 
+  - 2026-04-16
   - in class demo/discussion
 * - better bench self assessment for peer review 
-  - 2025-04-24
+  - 2026-04-23
   - [checklist template](https://betterbench.stanford.edu/checklist.html) in repo or paper overleaf (use google doc and convert to md for repo)
 * - draft paper[^paperreqs] for peer review [^peerrev] 
-  - 2025-04-24 
-  - benchmark repo or overleaf, team preference, **[registration](https://docs.google.com/forms/d/e/1FAIpQLSe85EU-DvevdyyZNRhfG5ZSe7MwAXe8psFD-eJGxD1iYRT5hA/viewform?usp=header) of the location required**
+  - 2026-04-23 
+  - benchmark repo or overleaf, team preference, **[registration]() of the location required**
 * - extend the benchmark with a task that gives different performance [^performancevary] 
-  - 2025-04-24,9 
+  - 2026-04-23,28 
   - benchmark repo
 * - in class presentation
-  - 2025-04-24,9
+  - 2026-04-23,28
   - presentation[^presentation] and draft paper[^draft], 
 * - complete a final conference-paper[^paperreqs] style report 
-  - 2025-05-06  
-  - final paper for grading and [short reflection](https://docs.google.com/forms/d/e/1FAIpQLSfgKq0w26jaxBKsuEsKSkXyAnmB8C0BlblsTAYyhL9qj7NlxA/viewform?usp=header) **form will be active after may 1**
+  - 2026-05-06 [^approx] 
+  - final paper for grading and [short reflection]() **form will be active after may 1**
 * - *optional* register abstract for [neurips](https://neurips.cc/Conferences/2025/CallForDatasetsBenchmarks)
-  - 2025-05-11 
+  - 2026-05-11 [^approx]
   - abstract and all authors registered in openreview
 * - *optional* submit paper for neurips
-  - 2025-05-15
+  - 2026-05-15[^approx]
   - paper with all required sections to openreview, inluding [checklist](https://neurips.cc/public/guides/PaperChecklist)
 * - *optional* submit supplemental materials for neurips
-  - 2025-05-22
+  - 2026-05-22[^approx]
   - paper with all required sections to openreview
 ```
+
+
+[^approx]: final dates to be announced, these are based on last year
+<!-- https://docs.google.com/forms/d/e/1FAIpQLSe85EU-DvevdyyZNRhfG5ZSe7MwAXe8psFD-eJGxD1iYRT5hA/viewform?usp=header) 
+https://docs.google.com/forms/d/e/1FAIpQLSfgKq0w26jaxBKsuEsKSkXyAnmB8C0BlblsTAYyhL9qj7NlxA/viewform?usp=header-->
 
 [^teams]: depending on enrollment and similarity of proposal topics benchmarks
  may be completed in teams or indvidually but the proposal stage and peer review will 
@@ -211,88 +216,164 @@ the way class time is used is subject to change, but the project milestone deadl
 * - date
   - topic
   - due
-* - 2025-01-23
-  - intro
+* - 2026-01-22
+  - intro & why it's hard
   - none 
-* - 2025-01-28
-  - classic evaluation  in predictive systems
-  - prep work (see prismia)
-* - 2025-01-30
-  - novel evaluation in predictive systems + syllabus discussion
-  - contribute informal evaluations
-* - 2025-02-04
-  - basics of evaluation in generative systems + reading research discussion
-  - discuss/comment on informal eval + contribute benchmark ideas +copilot arena informal audit 
-* - 2025-02-06
-  - what is a benchmark? + synthesizing research discussion
-  - possible benchmarks to present for approval
-* - 2025-02-11
+* - 2026-01-27
+  - novel evaluation in predictive systems + syllabus discussion + reading research discussion
+  - [prep work](#readinformal) 
+* - 2026-01-29
+  - informal audits
+  - [informal audits, etc](#copilot)
+* - 2026-02-03
+  - basics of evaluation in generative systems + what is a benchmark
+  - [better bench, prepare to present](#betterbench) 
+* - 2026-02-05
+  -  synthesizing research discussion
+  - TBA
+* - 2026-02-10
   - benchmark spotlights  
   - spotlight presentations (all students 5 min presentation)
-* - 2025-02-13
+* - 2026-02-12
   - benchmark common structures
   - decide benchmark proposal topic (rough) 
-* - 2025-02-18
+* - 2026-02-17
   - benchmark spotlights II (possible swap to following week)
   -  
-* - 2025-02-20
+* - 2026-02-19
   - benchmark spotlights III (possible swap to following week)
   - full benchmark propsal  
-* - 2025-02-25
+* - 2026-02-25
   - evaluating evaluation I (possible swap to previous week)
   -  
-* - 2025-02-27
+* - 2026-02-27
   - evaluating evaluation II (possible swap to previous week)
   -  
-* - 2025-03-04
-  - peer review (Sarah out)
+* - 2026-03-03
+  - peer review 
   - proposal revisions
-* - 2025-03-06
-  - team formation (Sarah out)
+* - 2026-03-05
+  - team formation 
   - full reads of proposals
-* - 2025-03-11
-  - spring break
+* - 2026-03-10
+  -  tba
   -  none
-* - 2025-03-13
-  - spring break
+* - 2026-03-12
+  -  tba
   -  none
-* - 2025-03-18
-  - canceled
+* - 2026-03-17
+  - spring break
   -  
-* - 2025-03-20
-  - explanation concepts
+* - 2026-03-19
+  - spring break
   -  
-* - 2025-03-25
-  - TCAV
-  - 
-* - 2025-03-27
+* - 2026-03-24
   - benchmark demos
   - presentations
-* - 2025-04-01
-  - evaluating explanations 
+* - 2026-03-26
+  - benchmark demos
+  - presentations
+* - 2026-04-01
+  - tba
   - 
-* - 2025-04-03
+* - 2026-04-03
   - communicating and contextualizing performance
   - paper location registered 
-* - 2025-04-08
-  - explanation techniques II
-  - explanation technique spotlights
-* - 2025-04-10
-  - explanation techniques III
-  - explanation technique spotlights
-* - 2025-04-15
-  - communicating explanations
+* - 2026-04-08
+  - tba
+  - paper spotlights
+* - 2026-04-10
+  - tba
+  -  spotlights
+* - 2026-04-15
+  - communicating benchmark results
   - none
-* - 2025-04-17
-  - making a plan based on explanation results
-  - explanation results spotlights - one per team, 5 minutes max
-* - 2025-04-22
+* - 2026-04-17
+  - making a plan based on preliminary
+  - progress spotlights - one per team
+* - 2026-04-22
   - communicating limitations
   - paper draft for reading
-* - 2025-04-24
-  - COF Sensitivity, PersonaPromptBench, poison-detection-benchmark
+* - 2026-04-24
+  - final presentations
   - presentations
-* - 2025-04-29
-  - llm-webdev-rank, WABench, fairnessBench
+* - 2026-04-29
+  - final presentations
   - presentations
 ```
+
+
+## Prepare for class
+
+:::{attention}
+These are organized by due date, some dates have multiple steps. 
+::::
+
+(readinformal)=
+### Tuesday Jan 27
+
+- how to read a paper: [CS specific](https://dl.acm.org/doi/10.1145/1273445.1273458) & [more general](https://www.science.org/content/article/how-seriously-read-scientific-paper) *this might be familiar, but review it for tips to be sure*
+- post one or more [informal audit  articles](#informalaudits)
+- contribute [benchmark ideas](#benchmark-ideas)
+- read section 6 of [towards falsifiable reserch in interpretableml](https://ml-retrospectives.github.io/neurips2020/camera_ready/4.pdf) and skim the whole paper
+
+
+(copilot)=
+### Thursday Jan 29
+- conduct an informal audit of coding copilots with [copilot arena](https://marketplace.visualstudio.com/items?itemName=copilot-arena.copilot-arena) - you can do it more privately using a codespace or try it locally, but submit to [discussion repo](https://github.com/evalexplainAI/discussion-sp25/tree/main/copilot-arena)
+- comment on at least two others' informal audit posts
+- be prepared to discuss patterns in informal audits
+
+(betterbench)=
+## Tues Feb 3
+- read and comment on at least 2 peers copilot arena audits
+- read the [neurips datasets and benchmarks cfp](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks) *remember the ideal is that your course project is submittable to this venue*
+- read about [betterbench](https://openreview.net/forum?id=hcOq2buakM#discussion): read the full paper, but also skim the peer review (both at that link) and the [public project page](https://betterbench.stanford.edu/)
+- bring 2-3 options for benchmark papers you want to present the following week, should be from neurips datasets & benchmarks track, but others may be approved. You'll get approval for one during class time. You'll need to read the abstract and skim the paper to figure out if it's good and you may need to skim more than 2-3 to find a few good options. Final list/format of what to record will be provided by Tuesday.
+
+NeurIPS datasets and benchmarks: 
+- [2025](https://neurips.cc/virtual/2024/events/datasets-benchmarks-2025)
+- [2024](https://neurips.cc/virtual/2024/events/datasets-benchmarks-2024)
+- [2023](https://neurips.cc/virtual/2023/events/datasets-benchmarks-2023)
+- [2022](https://neurips.cc/virtual/2022/events/datasets-benchmarks-2022)
+- [2021](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021) *proceedings only*
+
+
+## Community Contributions 
+
+(informalaudits)=
+### Informal Evaluations
+
+Lots of popular media (i.e. not sholarly literature) is informal audits of AI.  We want to build up our skill in *formal* evaluation, but *informal* auditing can give ideas and serve as a good discussion.  
+
+When you post an article, use the template below for the body and make the title the article title. 
+
+Post to the [informal audits category](https://github.com/orgs/evalAI2eval/discussions/categories/informal-audits)
+
+````{code-block}
+<a one sentence summary>
+
+I think this is interesting because < a short phrase or a few sentences>
+
+[read the article](url/to/article)
+
+## Strengths
+
+- a few
+- bullets
+- on what is good
+
+## Weaknesses
+
+- a few
+- bullets
+- on what could be better
+````
+
+(benchmarkideas)=
+### Benchmark ideas
+
+Post to the [benchmark ideas category](https://github.com/orgs/evalAI2eval/discussions/categories/benchmark-ideas)
+
+No specific format, but try to include enough detail that a classmate can understand your goal/idea. No need for it to be complete by any standard. 
+You can post multiple, you will be able to choose freely later. 
