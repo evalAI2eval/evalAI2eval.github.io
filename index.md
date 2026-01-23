@@ -325,7 +325,7 @@ These are organized by due date, some dates have multiple steps.
 - be prepared to discuss patterns in informal audits
 
 (betterbench)=
-## Tues Feb 3
+### Tues Feb 3
 - read and comment on at least 2 peers copilot arena audits
 - read the [neurips datasets and benchmarks cfp](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks) *remember the ideal is that your course project is submittable to this venue*
 - read about [betterbench](https://openreview.net/forum?id=hcOq2buakM#discussion): read the full paper, but also skim the peer review (both at that link) and the [public project page](https://betterbench.stanford.edu/)
