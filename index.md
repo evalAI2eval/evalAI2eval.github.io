@@ -71,7 +71,9 @@ Community Contributions will be based on
 - glossary and shared notes contributions (completion-number)
 - contribution to shared infrastructure (completion -number and scope)
 - lightning talk presentations (quality/binary)
-- contributions to class discussion & prismia responses (completion -number and quality)
+- contributions to class discussion (completion -number and quality)
+
+<!--  & prismia responses -->
 
 All of these are grouped together becasue for each of you your contributions will look different, because we are all contributing to the community, each specific contribution will be different. 
 
@@ -199,7 +201,7 @@ exam to ensure that the student actually understands.
 
 This class meets in person, synchronously. 
 
-- we will use prismia chat to share materials. Join link on brightspace
+<!-- - we will use prismia chat to share materials. Join link on brightspace -->
 - Most course work will be done in GitHub repos, you may choose to work in Github.com, a codespace, or locally for most work. Join link for github is on Brightspace. 
 - A reading list will developed collaboratively via [zotero](https://www.zotero.org/groups/5719529/evalexplainai)
 - paper writing will be on [overleaf](https://www.overleaf.com/) via github, Sarah will create overleaf projects as needed so they get paid features via URI
