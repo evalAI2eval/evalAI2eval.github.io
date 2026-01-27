@@ -322,7 +322,7 @@ These are organized by due date, some dates have multiple steps.
 
 (copilot)=
 ### Thursday Jan 29
-- conduct an informal audit of coding copilots with [copilot arena](https://marketplace.visualstudio.com/items?itemName=copilot-arena.copilot-arena) - you can do it more privately using a codespace or try it locally, but submit to [discussion repo](https://github.com/evalexplainAI/discussion-sp25/tree/main/copilot-arena)
+- conduct an informal audit of coding copilots with [copilot arena](https://marketplace.visualstudio.com/items?itemName=copilot-arena.copilot-arena) - you can do it more privately using a codespace or try it locally, but submit to [discussion repo](https://github.com/evalexplainAI/discussion-sp26/tree/main/copilot-arena)
 - comment on at least two others' informal audit posts
 - be prepared to discuss patterns in informal audits
 
