@@ -225,14 +225,14 @@ the way class time is used is subject to change, but the project milestone deadl
   - novel evaluation in predictive systems + syllabus discussion + reading research discussion
   - [prep work](#readinformal) 
 * - 2026-01-29
-  - informal audits
+  - informal audits [discussion](#discussion:informalaudits)
   - [informal audits, etc](#copilot)
 * - 2026-02-03
   - basics of evaluation in generative systems + what is a benchmark
   - [better bench, prepare to present](#betterbench) 
 * - 2026-02-05
   -  synthesizing research discussion
-  - TBA
+  - [genai eval is a measurement problem, ]()
 * - 2026-02-10
   - benchmark spotlights  
   - spotlight presentations (all students 5 min presentation)
@@ -331,7 +331,7 @@ These are organized by due date, some dates have multiple steps.
 - read and comment on at least 2 peers copilot arena audits
 - read the [neurips datasets and benchmarks cfp](https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks) *remember the ideal is that your course project is submittable to this venue*
 - read about [betterbench](https://openreview.net/forum?id=hcOq2buakM#discussion): read the full paper, but also skim the peer review (both at that link) and the [public project page](https://betterbench.stanford.edu/)
-- bring 2-3 options for benchmark papers you want to present the following week, should be from neurips datasets & benchmarks track, but others may be approved. You'll get approval for one during class time. You'll need to read the abstract and skim the paper to figure out if it's good and you may need to skim more than 2-3 to find a few good options. Final list/format of what to record will be provided by Tuesday.
+- bring 2-3 options for benchmark papers you want to present the following week, should be from neurips datasets & benchmarks track, but others may be approved. You'll get approval for one during class time. You'll need to read the abstract and skim the paper to figure out if it's good and you may need to skim more than 2-3 to find a few good options. Presentation guidelines will be provided soon. 
 
 NeurIPS datasets and benchmarks: 
 - [2025](https://neurips.cc/virtual/2024/events/datasets-benchmarks-2025)
@@ -340,6 +340,12 @@ NeurIPS datasets and benchmarks:
 - [2022](https://neurips.cc/virtual/2022/events/datasets-benchmarks-2022)
 - [2021](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021) *proceedings only*
 
+(benchmarkinghard)=
+## Thurs Feb 5
+
+- read [Position: Evaluating Generative AI Systems Is a Social Science Measurement Challenge](https://arxiv.org/abs/2502.00561)
+- skim the [REALM paper](https://arxiv.org/abs/2503.18792)
+- explore the [REALM dashboard](https://realm-e7682.web.app/)
 
 ## Community Contributions 
 
@@ -379,3 +385,21 @@ Post to the [benchmark ideas category](https://github.com/orgs/evalAI2eval/discu
 
 No specific format, but try to include enough detail that a classmate can understand your goal/idea. No need for it to be complete by any standard. 
 You can post multiple, you will be able to choose freely later. 
+
+
+## Discussion Questions
+
+This is some preliminary disussion questions in case you want to think about them before class, or use them to guide your reading
+
+(discussion:informalaudits)=
+### Informal Audits
+
+I'm having you look at informal audits because they are what most people are familiar with.  While we're studying AI from an advanced computer science perspective, these technologies are actually deployed in the real world. One way to select a topic to make your benchmark on is based on your own interests, of course, but another way is to think about what the world needs to know. The informal audits can help form an opinion on the latter.  Additionally, the informal audits start to give an idea of how people test and actually use AI. This in turn helps us form a foundation for evaluating what makes a good or bad, as in realistic and useful broadly versus artifically simple, benchmark. 
+
+1. What do these informal audits tell us about what people expect from AI? 
+1. Among people's expectations are competencies that are reasonable to expect? unreasonable to expect?
+1. What are the goals of the informal audits? 
+1. How are these informal audits effective? 
+1. What are the limitations of informal audits? 
+1. How do the informal audits inform what we can do better in more rigorous scienfitic evaluations? 
+
