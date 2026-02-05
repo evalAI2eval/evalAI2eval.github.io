@@ -341,11 +341,40 @@ NeurIPS datasets and benchmarks:
 - [2021](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021) *proceedings only*
 
 (benchmarkinghard)=
-## Thurs Feb 5
+### Thurs Feb 5
 
 - read [Position: Evaluating Generative AI Systems Is a Social Science Measurement Challenge](https://arxiv.org/abs/2502.00561)
 - skim the [REALM paper](https://arxiv.org/abs/2503.18792)
 - explore the [REALM dashboard](https://realm-e7682.web.app/)
+
+### Feb 10
+
+[Benchmark spotlights](https://docs.google.com/presentation/d/1U1flIno2Y6obDAYEF8ZoFGN2PNe8tV_RFNBS2J6HNjQ/edit?slide=id.g39367b8c643_0_7#slide=id.g39367b8c643_0_7)
+
+:::::::{attention}
+the presentation is only available to enrolled students, via URI google accounts
+:::::::::
+
+- Emily
+- priscilla
+- ethan
+- sean
+- yusra
+
+### Feb 12 
+
+:::::::{attention}
+the presentation is only available to enrolled students
+:::::::::
+
+
+[Benchmark spotlights](https://docs.google.com/presentation/d/1U1flIno2Y6obDAYEF8ZoFGN2PNe8tV_RFNBS2J6HNjQ/edit?slide=id.g39367b8c643_0_7#slide=id.g39367b8c643_0_7)
+
+- Molly
+- Jack
+- Alex
+- Cody
+- Will
 
 ## Community Contributions 
 
