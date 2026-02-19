@@ -115,26 +115,20 @@ The project will be completed by meeting several milestones, these milestones ar
   - due date
   - submission
 * - evaluate ideas based on interest from a group-created list of ideas
-  - 2026-02-12 
-  - course discussion
-* - draft proposal an AI benchmark component
   - 2026-02-19 
-  - tba
+  - course discussion
+* - draft proposal an AI benchmark 
+  - 2026-02-25 
+  - overleaf or repo (myst files in docs folder)
 * - peer review of proposals
-  - 2026-03-05 
+  - 2026-03-05[^moving] 
   - form will be provided
-* - consolidation into teams[^teams]
-  - 2026-03-05 
-  - in class
 * - implement at least one benchmark task
-  - 2026-03-26 
+  - 2026-03-26 [^moving] 
   - benchmark repo + presentation
 * - benchmark map
-  - 2026-04-02
+  - 2026-04-02 [^moving] 
   - plain text or table that indicates your plan of how many tasks
-* - apply an explanation technique to better understand *why* at least one model performs as it does on your benchmark
-  - 2026-04-16
-  - in class demo/discussion
 * - better bench self assessment for peer review 
   - 2026-04-23
   - [checklist template](https://betterbench.stanford.edu/checklist.html) in repo or paper overleaf (use google doc and convert to md for repo)
@@ -160,6 +154,8 @@ The project will be completed by meeting several milestones, these milestones ar
   - 2026-05-22[^approx]
   - paper with all required sections to openreview
 ```
+
+[^moving]: these dates are going to switch around a little to reorder tasks. 
 
 
 [^approx]: final dates to be announced, these are based on last year
@@ -234,34 +230,34 @@ the way class time is used is subject to change, but the project milestone deadl
   -  synthesizing research discussion
   - [genai eval is a measurement problem, ]()
 * - 2026-02-10
-  - benchmark spotlights  
-  - spotlight presentations (all students 5 min presentation)
+  - benchmark spotlights  I
+  - spotlight presentations (all students 10 min presentation)
 * - 2026-02-12
-  - benchmark common structures
-  - decide benchmark proposal topic (rough) 
+  - benchmark spotlights I
+  - spotlight presentations (all students 10 min presentation)
 * - 2026-02-17
-  - benchmark spotlights II (possible swap to following week)
-  -  
+  - Benchmark Structures &  engineering challenges in benchmarking
+  - decide benchmark proposal topic - post to discussion, 
 * - 2026-02-19
-  - benchmark spotlights III (possible swap to following week)
-  - full benchmark propsal  
+  -  mini benchmark with [benchtools](https://ml4sts.com/benchtools/)
+  -  [second benchmark to present as an issue ](https://github.com/evalAI2eval/evalAI2eval.github.io), [team formation using discussion board & class time](https://github.com/orgs/evalAI2eval/discussions/categories/benchmark-ideas) 
 * - 2026-02-25
-  - evaluating evaluation I (possible swap to previous week)
-  -  
+  - [NIST comment period ](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations)
+  - [benchmark scope paragraph](#scope),
 * - 2026-02-27
-  - evaluating evaluation II (possible swap to previous week)
-  -  
+  - benchmark spotlights II
+  - proposal draft
 * - 2026-03-03
-  - peer review 
+  - benchmark spotlights II
   - proposal revisions
 * - 2026-03-05
   - team formation 
   - full reads of proposals
 * - 2026-03-10
-  -  tba
+  -   evaluating evaluation I 
   -  none
 * - 2026-03-12
-  -  tba
+  -   evaluating evaluation II
   -  none
 * - 2026-03-17
   - spring break
@@ -364,7 +360,7 @@ the presentation is only available to enrolled students, via URI google accounts
 ### Feb 12 
 
 :::::::{attention}
-the presentation is only available to enrolled students
+the presentation is only available to enrolled students, via URI google accounts
 :::::::::
 
 
