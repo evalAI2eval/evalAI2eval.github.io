@@ -117,8 +117,11 @@ The project will be completed by meeting several milestones, these milestones ar
 * - evaluate ideas based on interest from a group-created list of ideas
   - 2026-02-19 
   - course discussion
+* - team formed, project topic
+  - 2026-02-26
+  - in class
 * - draft proposal an AI benchmark 
-  - 2026-02-25 
+  - 2026-02-25 [^moving] 
   - overleaf or repo (myst files in docs folder)
 * - peer review of proposals
   - 2026-03-05[^moving] 
