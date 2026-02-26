@@ -185,6 +185,14 @@ evaluation will not be required to complete the project.
 
 [^paperreqs]: the paper should be in the style (tone and content level) of a CS conference. It should be 6-10 pages in the neurips format( [latex from neurips](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) or `arxiv_nips` myst template), including figures, but unlimited additional pages for references. 
 
+
+### Proposal Requirements
+
+- identify Related benchmarks and how yours is distinct
+- identify the concept and how it will be operationalized
+- describe one task in detail
+- sketch out how many tasks or how you'll determine additional task 
+
 ## LLM use 
 
 All work must reflect the students understanding. LLM assistants may be used to 
