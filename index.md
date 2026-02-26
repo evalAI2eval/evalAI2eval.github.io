@@ -120,18 +120,15 @@ The project will be completed by meeting several milestones, these milestones ar
 * - team formed, project topic
   - 2026-02-26
   - in class
-* - draft proposal an AI benchmark 
-  - 2026-02-25 [^moving] 
-  - overleaf or repo (myst files in docs folder)
-* - peer review of proposals
-  - 2026-03-05[^moving] 
-  - form will be provided
+* - team [proposal ](#proposal-reqs)
+  - 2026-03-05 
+  - overleaf or repo (mystmd files in docs folder)
 * - implement at least one benchmark task
-  - 2026-03-26 [^moving] 
+  - 2026-03-26 
   - benchmark repo + presentation
 * - benchmark map
-  - 2026-04-02 [^moving] 
-  - plain text or table that indicates your plan of how many tasks
+  - 2026-04-02 
+  - plain text or table that indicates your final estimate of how many tasks/subtasks
 * - better bench self assessment for peer review 
   - 2026-04-23
   - [checklist template](https://betterbench.stanford.edu/checklist.html) in repo or paper overleaf (use google doc and convert to md for repo)
@@ -179,19 +176,33 @@ evaluation will not be required to complete the project.
 
 [^draft]: Your draft should be a complete paper, but may have only partial results 
 
-[^presentation]: Your presentation should be 15 minutes, strictly enforced, so that there is time for questions
+[^presentation]: Your presentation should be TBA minutes, strictly enforced, so that there is time for questions
 
-[^peerrev]: there is a [short form](https://docs.google.com/forms/d/e/1FAIpQLSdAPkOT8xL473iwW8B4rPqcnFJNyJ5xtHG9yaTVvtLYG70juA/viewform?usp=header) to complete for each benchmark, you should take notes enough to complete the forms after class, once per presenatation
+[^peerrev]: there is a [short form]() to complete for each benchmark, you should take notes enough to complete the forms after class, once per presenatation
 
 [^paperreqs]: the paper should be in the style (tone and content level) of a CS conference. It should be 6-10 pages in the neurips format( [latex from neurips](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) or `arxiv_nips` myst template), including figures, but unlimited additional pages for references. 
 
-
+(proposal-reqs)=
 ### Proposal Requirements
 
+2-3 pages in Neurips Format. 
+
+Your proposal should address the following:
 - identify Related benchmarks and how yours is distinct
 - identify the concept and how it will be operationalized
 - describe one task in detail
-- sketch out how many tasks or how you'll determine additional task 
+- sketch out how many tasks or how you'll determine additional tasks
+- what data/references you will need or already have
+- some type of scoring
+
+Recommended sections[^order]
+1. Introduction (why it's important)
+1. Concept & Operationalization
+1. Related Benchmarks
+1. Structure (Tasks, scoring, how you'll make tasks)
+
+
+[^order]: you can change the order, e.g. if you want to define your concept/operationalization relative to other benchmarks 
 
 ## LLM use 
 
@@ -259,35 +270,35 @@ the way class time is used is subject to change, but the project milestone deadl
   - co-working on proposal
   - nothing
 * - 2026-03-03
-  - [NIST comment period ](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations)
-  - proposal revisions
+  - discuss [NIST proposal](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations)
+  - [select paper for benchmarks II](https://github.com/evalAI2eval/evalAI2eval.github.io/issues) and skim [NIST proposal](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations)
 * - 2026-03-05
-  - TBA 
-  - TBA
+  - Evaluating Evaluation I 
+  - [proposal ](#proposal-reqs) due
 * - 2026-03-10
-  -  TBA 
-  -  none
+  -  Benchmark spotlights II
+  -  presentations & betterbench forms
 * - 2026-03-12
-  -  TBA
-  -  none
+  -  Benchmark spotlights II
+  -  presentations & betterbench forms
 * - 2026-03-17
   - spring break
-  -  
+  -  no class
 * - 2026-03-19
   - spring break
-  -  
+  -  no class
 * - 2026-03-24
-  - benchmark demos
-  - presentations
+  - communicating and contextualizing performance
+  - 
 * - 2026-03-26
   - benchmark demos
-  - presentations
+  - presentations: 1 task run and preliminary analysis
 * - 2026-04-01
-  - tba
-  - 
+  - eval eval spotlights
+  - presentations
 * - 2026-04-03
-  - communicating and contextualizing performance
-  - paper location registered 
+  - eval eval spotlights
+  - presentations
 * - 2026-04-08
   - tba
   - paper spotlights
@@ -422,6 +433,10 @@ Post to the [benchmark ideas category](https://github.com/orgs/evalAI2eval/discu
 No specific format, but try to include enough detail that a classmate can understand your goal/idea. No need for it to be complete by any standard. 
 You can post multiple, you will be able to choose freely later. 
 
+(evaleval1)=
+### EvalEval I
+
+- [dimensions](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Dow.pdf)
 
 ## Discussion Questions
 
