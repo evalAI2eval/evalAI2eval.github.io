@@ -241,23 +241,23 @@ the way class time is used is subject to change, but the project milestone deadl
 * - 2026-02-19
   -  mini benchmark with [benchtools](https://ml4sts.com/benchtools/)
   -  [second benchmark to present as an issue ](https://github.com/evalAI2eval/evalAI2eval.github.io), [team formation using discussion board & class time](https://github.com/orgs/evalAI2eval/discussions/categories/benchmark-ideas) 
-* - 2026-02-25
-  - [NIST comment period ](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations)
-  - [benchmark scope paragraph](#scope),
-* - 2026-02-27
-  - benchmark spotlights II
-  - proposal draft
+* - 2026-02-24
+  - snow! 
+  - nothing
+* - 2026-02-26
+  - co-working on proposal
+  - nothing
 * - 2026-03-03
-  - benchmark spotlights II
+  - [NIST comment period ](https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations)
   - proposal revisions
 * - 2026-03-05
-  - team formation 
-  - full reads of proposals
+  - TBA 
+  - TBA
 * - 2026-03-10
-  -   evaluating evaluation I 
+  -  TBA 
   -  none
 * - 2026-03-12
-  -   evaluating evaluation II
+  -  TBA
   -  none
 * - 2026-03-17
   - spring break
