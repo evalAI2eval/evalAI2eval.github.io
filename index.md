@@ -394,6 +394,26 @@ the presentation is only available to enrolled students, via URI google accounts
 - Cody
 - Will
 
+
+### Bench II
+Tues:
+- Alex
+- priscilla
+- Will
+- ethan
+- yusra
+
+
+Thurs
+- Emily
+- sean
+- Cody
+- Jack
+- Molly
+
+
+
+
 ## Community Contributions 
 
 (informalaudits)=
