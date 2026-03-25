@@ -295,10 +295,10 @@ the way class time is used is subject to change, but the project milestone deadl
   - presentations: 1 task run and preliminary analysis
 * - 2026-04-01
   - eval eval spotlights
-  - presentations
+  - [presentations](#evaleval1)
 * - 2026-04-03
   - eval eval spotlights
-  - presentations
+  - [presentations](#evaleval1)
 * - 2026-04-08
   - tba
   - paper spotlights
@@ -411,7 +411,36 @@ Thurs
 - Jack
 - Molly
 
+(evaleval1)=
+### Eval Eval
 
+
+
+:::::{attention} 
+
+some of these are very short papers with long appendices. Read those too, use them for evidence
+::::::
+
+
+[slide deck](https://docs.google.com/presentation/d/1lUg2Zmoz9f2uZojuYMOGKCmPMAUgc2AiKJ4LCRF4uZg/edit?slide=id.g39678f6359b_0_0#slide=id.g39678f6359b_0_0)
+
+
+Tues 3/31: 
+- Yusra [Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor](https://openreview.net/forum?id=USqNoPVhxx)
+- Ethan [Validating LLM-as-a-Judge Systems under Rating Indeterminacy](https://arxiv.org/pdf/2503.05965)
+- Will: [Toward Valid Measurement of (Un)fairness for Generative AI: A Proposal for Systematization Through the Lens of Fair Equality of Chances](https://ojs.aaai.org/index.php/AIES/article/view/36736)
+- Priscilla : [Statistical Bias in Benchmark Design](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Powers.pdf)
+- Cody" [Identifying human-AI use scenarios and interaction modes for societal impact evaluations](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Ibrahim.pdf)
+
+
+
+
+Thurs 4/2:
+- Emily [Statistically Valid Post-Deployment Monitoring Should Be Standard for AI-Based Digital Health](https://openreview.net/forum?id=mXBFoHDuil)
+- Sean: [Personality at Scale](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Tosato.pdf)
+- Alex: [Position: Human Baselines in Model Evaluations Need Rigor and Transparency (With Recommendations & Reporting Checklist)](https://openreview.net/forum?id=gwhPvu97Gm)
+- Molly: [Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://arxiv.org/abs/2511.05613)
+- Jack:[Position: Benchmarking is Broken - Don't Let AI be Its Own Judge](https://openreview.net/forum?id=vFae5rRman)
 
 
 ## Community Contributions 
@@ -444,6 +473,8 @@ I think this is interesting because < a short phrase or a few sentences>
 - bullets
 - on what could be better
 ````
+
+
 
 (benchmarkideas)=
 ### Benchmark ideas
