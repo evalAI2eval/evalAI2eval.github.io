@@ -299,25 +299,25 @@ the way class time is used is subject to change, but the project milestone deadl
 * - 2026-04-03
   - eval eval spotlights
   - [presentations](#evaleval1)
-* - 2026-04-08
-  - tba
-  - paper spotlights
-* - 2026-04-10
-  - tba
-  -  spotlights
-* - 2026-04-15
-  - communicating benchmark results
+* - 2026-04-07
+  - Evaluating LLM as judge
+  - [presentations](#evaleval1)
+* - 2026-04-09
+  - Co-working and Q&A
   - none
-* - 2026-04-17
-  - making a plan based on preliminary
-  - progress spotlights - one per team
-* - 2026-04-22
+* - 2026-04-14
+  - Writing about benchmarks
+  - [bring outlines of the ones you read](#closeread)
+* - 2026-04-16
+  - iterating on your project
+  - [update spotlights](#update2)
+* - 2026-04-21
   - communicating limitations
-  - paper draft for reading
-* - 2026-04-24
-  - final presentations
-  - presentations
-* - 2026-04-29
+  - paper draft for peer-review 
+* - 2026-04-23
+  - Emerging standards in Evaulation
+  - [review tools and standards](#toolsand)
+* - 2026-04-28
   - final presentations
   - presentations
 ```
@@ -427,7 +427,6 @@ some of these are very short papers with long appendices. Read those too, use th
 
 Tues 3/31: 
 - Yusra [Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor](https://openreview.net/forum?id=USqNoPVhxx)
-- Ethan [Validating LLM-as-a-Judge Systems under Rating Indeterminacy](https://arxiv.org/pdf/2503.05965)
 - Will: [Toward Valid Measurement of (Un)fairness for Generative AI: A Proposal for Systematization Through the Lens of Fair Equality of Chances](https://ojs.aaai.org/index.php/AIES/article/view/36736)
 - Priscilla : [Statistical Bias in Benchmark Design](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Powers.pdf)
 - Cody" [Identifying human-AI use scenarios and interaction modes for societal impact evaluations](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Ibrahim.pdf)
@@ -440,7 +439,52 @@ Thurs 4/2:
 - Sean: [Personality at Scale](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Tosato.pdf)
 - Alex: [Position: Human Baselines in Model Evaluations Need Rigor and Transparency (With Recommendations & Reporting Checklist)](https://openreview.net/forum?id=gwhPvu97Gm)
 - Molly: [Who Evaluates AI's Social Impacts? Mapping Coverage and Gaps in First and Third Party Evaluations](https://arxiv.org/abs/2511.05613)
+
+
+Tues 4/7:
 - Jack:[Position: Benchmarking is Broken - Don't Let AI be Its Own Judge](https://openreview.net/forum?id=vFae5rRman)
+- Ethan [Validating LLM-as-a-Judge Systems under Rating Indeterminacy](https://arxiv.org/pdf/2503.05965)
+
+(closeread)=
+### Learning to Write in genre from examples
+
+In this exercise, we are going to evaluate the *presentation* of the benchmarks, more than the *content* of the benchmarks. 
+
+For each of the two benchmarks you read before:
+1. Add a row to the [spreadsheet](https://docs.google.com/spreadsheets/d/1jcZUKMMH56qV9c2YU6ruYuv6Ey0y0rbcADYtdnm9tEY/edit?usp=sharing) about the paper
+1. fill in the title
+1. Add the link to the pdf
+1. For each of the following columns, add the paper's name for the section (ie the section heading) for where you find the information 
+1. (optionally) add notes/ context/questions in the corresponding "notes" column for each of the columns
+
+- **motivation**: motivation for creating the benchmark
+- **improtance**: importance of the concept the benchmark evaluates
+- **conceptualization**: conceptualization/operationalization of the benchmark; where do they describe the assumptions and how they translate into tasks and metrics
+- **structure**: structure of the evaluation process
+- **tasks**: task description(s)
+- **scoring**: how individual task scores are determined
+- **aggregation**: how the task scores are aggregated into top level scores
+- **results**: results of models running on the benchmark, as in the scores that models achieved
+- **limitations**: discussion of limitations of the benchmark's design
+- **implications**: implications of the results
+
+(update2)=
+### Project Update 2
+
+
+This update will have 3 slides per proejct:
+- 1 slide reminder overview of your benchmark's goal and design
+- completed & planned  work
+- what is interesting findings so far and/or logistical challenges so far
+
+
+### Tools and Standards
+
+::::{attention}
+more to come
+:::::
+
+- https://evalevalai.com/events/shared-task-every-eval-ever/
 
 
 ## Community Contributions 
@@ -488,6 +532,10 @@ You can post multiple, you will be able to choose freely later.
 ### EvalEval I
 
 - [dimensions](https://evalevalai.com/2024workshop/accepted_papers/EvalEval_24_Dow.pdf)
+
+
+
+
 
 ## Discussion Questions
 
